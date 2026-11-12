@@ -1,0 +1,6 @@
+{
+  "name": "MAKAZI - Property Marketplace & Management Platform",
+  "description": "Nairobi-first property technology platform. Find your place and manage your rental properties, leases, tenants, and M-Pesa payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
